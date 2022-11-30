@@ -6,7 +6,7 @@ const Footer = () => {
     <>
       <footer>
         <div className='para'>
-          <p>Created By Ahmad Adel </p>
+          <p>Created By Ahmed Adel </p>
         </div>
         <div className='icon'>
           <i className='fab fa-facebook-f'></i>
